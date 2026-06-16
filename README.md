@@ -18,7 +18,7 @@ markdown
 │ └── catalog.json # Каталог товаров с ценами по регионам
 ├── index.js # Основной исполняемый файл
 ├── package.json # Метаданные и скрипты
-└── README.md```
+└── README.md
 
 text
 
