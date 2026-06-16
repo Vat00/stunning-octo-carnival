@@ -20,7 +20,7 @@ catalog-app/
 ├── index.js # Основной исполняемый файл
 ├── package.json # Метаданные и скрипты
 └── README.md
-
+```
 text
 
 ## Запуск
