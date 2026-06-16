@@ -1,0 +1,13 @@
+{
+  "name": "building-materials-order",
+  "version": "1.0.0",
+  "description": "Консольное приложение для формирования заявки на стройматериалы",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
